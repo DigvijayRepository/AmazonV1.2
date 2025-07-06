@@ -1,0 +1,28 @@
+16:02:51.936 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\WorkSpace\2025\Selenium\OpenCartV1.2\master.xml
+
+16:03:08.890 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\WorkSpace\2025\Selenium\OpenCartV1.2\master.xml
+
+16:03:14.662 [main] INFO  testCases.TC01_AccountLoginTest - ***** STarting TC_01_Verify_Account_Registartion  *****
+16:03:15.293 [main] INFO  testCases.TC01_AccountLoginTest - ***** hovered on Account  *****
+16:03:16.334 [main] INFO  testCases.TC01_AccountLoginTest - ***** clicked on signIn  *****
+16:03:20.350 [main] INFO  testCases.TC01_AccountLoginTest - ***** Started  Login  *****
+16:03:22.288 [main] INFO  testCases.TC01_AccountLoginTest - ***** Logged in  *****
+16:03:22.289 [main] INFO  testCases.TC01_AccountLoginTest - ***** validating Expected message  *****
+16:10:13.479 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\WorkSpace\2025\Selenium\OpenCartV1.2\master.xml
+
+16:10:25.878 [main] INFO  testCases.TC01_AccountLoginTest - ***** STarting TC_01_Verify_Account_Registartion  *****
+16:10:26.235 [main] INFO  testCases.TC01_AccountLoginTest - ***** hovered on Account  *****
+16:10:27.575 [main] INFO  testCases.TC01_AccountLoginTest - ***** clicked on signIn  *****
+16:10:31.585 [main] INFO  testCases.TC01_AccountLoginTest - ***** Started  Login  *****
+16:10:36.714 [main] INFO  testCases.TC01_AccountLoginTest - ***** Logged in  *****
+16:10:36.714 [main] INFO  testCases.TC01_AccountLoginTest - ***** validating Expected message  *****
+16:10:40.144 [main] INFO  testCases.TC01_AccountLoginTest - ***** Finished  *****
+16:10:50.856 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** STarting TC02_AccountLoginUsingDataProvider  *****
+16:10:51.026 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** hovered on Account  *****
+16:10:52.011 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** clicked on signIn  *****
+16:10:56.014 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** Started  Login  *****
+16:10:58.414 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** Logged in  *****
+16:10:58.414 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** validating Expected message  *****
