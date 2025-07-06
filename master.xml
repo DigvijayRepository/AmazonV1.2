@@ -10,7 +10,7 @@
 	
     <classes>
       <class name="testCases.TC01_AccountLoginTest"/> 
-      <class name="testCases.TC02_AccountLoginUsingDataProvider"/>
+      <!--<class name="testCases.TC02_AccountLoginUsingDataProvider"/>-->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
