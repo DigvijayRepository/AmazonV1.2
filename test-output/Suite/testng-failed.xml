@@ -8,13 +8,13 @@
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC01_AccountLoginTest">
+      <class name="testCases.TC02_AccountLoginUsingDataProvider">
         <methods>
           <include name="tearDown"/>
-          <include name="Verify_Account_Registartion"/>
+          <include name="Verify_LoginAccountUsingDataProvider" invocation-numbers="1 2 3 4"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.TC01_AccountLoginTest -->
+      </class> <!-- testCases.TC02_AccountLoginUsingDataProvider -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

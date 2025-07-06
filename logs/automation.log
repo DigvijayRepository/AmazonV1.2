@@ -26,3 +26,24 @@
 16:10:56.014 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** Started  Login  *****
 16:10:58.414 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** Logged in  *****
 16:10:58.414 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** validating Expected message  *****
+17:00:53.287 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\WorkSpace\2025\Selenium\AmazonV1.2\master.xml
+
+17:01:00.033 [main] INFO  testCases.TC01_AccountLoginTest - ***** STarting TC_01_Verify_Account_Registartion  *****
+17:01:00.567 [main] INFO  testCases.TC01_AccountLoginTest - ***** hovered on Account  *****
+17:01:01.571 [main] INFO  testCases.TC01_AccountLoginTest - ***** clicked on signIn  *****
+17:01:05.582 [main] INFO  testCases.TC01_AccountLoginTest - ***** Started  Login  *****
+17:01:07.071 [main] INFO  testCases.TC01_AccountLoginTest - ***** Logged in  *****
+17:01:07.071 [main] INFO  testCases.TC01_AccountLoginTest - ***** validating Expected message  *****
+17:01:10.316 [main] INFO  testCases.TC01_AccountLoginTest - ***** Finished  *****
+17:01:16.895 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** STarting TC02_AccountLoginUsingDataProvider  *****
+17:01:17.070 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** hovered on Account  *****
+17:01:17.892 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** clicked on signIn  *****
+17:01:21.907 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** Started  Login  *****
+17:01:24.150 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** Logged in  *****
+17:01:24.150 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** validating Expected message  *****
+17:04:24.257 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** Finished TC02_AccountLoginUsingDataProvider *****
+17:04:24.280 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** STarting TC02_AccountLoginUsingDataProvider  *****
+17:10:24.396 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** STarting TC02_AccountLoginUsingDataProvider  *****
+17:12:32.436 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** STarting TC02_AccountLoginUsingDataProvider  *****
+17:12:32.470 [main] INFO  testCases.TC02_AccountLoginUsingDataProvider - ***** STarting TC02_AccountLoginUsingDataProvider  *****
